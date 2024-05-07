@@ -1,8 +1,8 @@
 export default function Contact() {
   return (
     <div>
-      <h1>Contact</h1>
-      <form>
+      <h1>Contact Me</h1>
+      <form className = "p-4">
         <div className="form-group">
           <label htmlFor="name">Name:</label>
           <input type="text" className="form-control" id="name" name="name" />
