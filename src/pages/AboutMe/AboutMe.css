@@ -1,0 +1,9 @@
+.aboutMeImage img{
+    width: 10%;
+    height: 10%;
+    object-fit: center;
+    border-radius: 100%;
+    border: 2px solid #000000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #8f4af7;
+}
